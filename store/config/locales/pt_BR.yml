@@ -1,0 +1,5 @@
+pt_BR:
+  hello: "Olá mundo"
+  products:
+    index:
+      title: "Produtos"
